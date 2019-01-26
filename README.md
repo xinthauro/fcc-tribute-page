@@ -6,5 +6,5 @@ also you can view it in [condepen](https://codepen.io/xinthauro/full/MzBBzp).
 
 ## Screenshots
 ![Screenshot 1](/screenshots/tribute_page_01.jpg)
-![Screenshot 2](/screenshots/tribute_page_01.jpg)
+![Screenshot 2](/screenshots/tribute_page_02.jpg)
 
