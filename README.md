@@ -5,6 +5,6 @@ You can see the project page in [freeCodeCamp](https://learn.freecodecamp.org/re
 also you can view it in [codepen](https://codepen.io/xinthauro/full/MzBBzp).
 
 ## Screenshots
-![Screenshot 1](/screenshots/tribute_page_01.jpg)
-![Screenshot 2](/screenshots/tribute_page_02.jpg)
+![Screenshot 1](screenshots/tribute_page_01.jpg)
+![Screenshot 2](screenshots/tribute_page_02.jpg)
 
