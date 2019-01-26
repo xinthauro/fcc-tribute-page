@@ -1,0 +1,49 @@
+body {
+    background: linear-gradient(to right, #000000, #434343);
+    font-family: 'Roboto', sans-serif;
+    color:gainsboro;
+}
+
+h1 {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 3em;
+ }
+
+figure {
+    margin: 1em;
+}
+
+img {
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1%;
+}
+
+article {
+    margin: 2em auto;
+}
+
+figcaption {
+    padding-top: 1em;
+}
+
+a {
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: goldenrod;
+}
+
+.container {
+    max-width: 720px;
+    margin: 4em auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
